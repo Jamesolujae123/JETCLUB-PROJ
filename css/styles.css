@@ -36,7 +36,6 @@ p {
   color: #8f8f8f;
 }
 
-#footer
 
 
 #footer
@@ -46,11 +45,13 @@ p {
   padding: 20px, 0;
 }
 
-#footer
+#cta
 a:hover {
-  color: #FF8C00 ;
-  text-decoration: none;
+  color: #FF8C00;
+  text-decoration: none; 
 }
+
+
 
 h2 {
   color: #0073FF;
@@ -161,11 +162,7 @@ hr {
   color: #FFA500;
 }
 
-#cta
-a:hover {
-  color: #FF8C00 ;
-  text-decoration: none; 
-}
+
 
   #cta
   a  {
