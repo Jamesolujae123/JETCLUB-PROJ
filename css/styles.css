@@ -37,17 +37,12 @@ p {
 }
 
 #footer
-a {
-  color: grey;
-  font-family: cursive;
-  margin: 10px 20px;
-  text-decoration: none;
-}
+
 
 #footer
 p {
   color : #0073FF;
-  font-size: 0.87rem;
+  font-size: 0.89rem;
   padding: 20px, 0;
 }
 
@@ -166,9 +161,11 @@ hr {
   color: #FFA500;
 }
 
-#cta {
- a {
+#cta
+a {
+  color: grey;
+  font-family: cursive;
+  margin: 10px 20px;
   text-decoration: none;
- padding: 7% 15%;
-  }
 }
+
