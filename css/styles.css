@@ -162,10 +162,15 @@ hr {
 }
 
 #cta
-a {
-  color: grey;
-  font-family: cursive;
-  margin: 10px 20px;
-  text-decoration: none;
-}
+a:hover {
+  color: #FF8C00 ;
+  text-decoration: none; }
+
+  #cta
+  a  {
+    color: grey;
+    font-family: cursive;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
 
