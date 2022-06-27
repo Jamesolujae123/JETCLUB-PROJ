@@ -165,3 +165,10 @@ hr {
 .icon:hover {
   color: #FFA500;
 }
+
+#cta {
+ a {
+  text-decoration: none;
+ padding: 7% 15%;
+  }
+}
